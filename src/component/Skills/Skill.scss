@@ -1,0 +1,53 @@
+.tech-tag {
+  color: #ffd700;
+}
+
+.skills-charts {
+  position: absolute;
+  width: 100%;
+  right: -45%;
+  left: auto;
+  height: 100%;
+  top: 25%;
+  bottom: 0;
+  margin: auto;
+
+  z-index: 2;
+}
+
+.text-zone {
+  p {
+    a {
+      color: #ffd700;
+      text-decoration: underline;
+    }
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .skills-charts {
+    left: -50%;
+
+    top: 150%;
+  }
+
+  .text-zone {
+    h1 {
+      font-size: 43px;
+    }
+  }
+}
+
+@media screen and (max-width: 920px) {
+  .skills-charts {
+    left: -50%;
+
+    top: 170%;
+  }
+
+  .text-zone {
+    h1 {
+      font-size: 40px;
+    }
+  }
+}
