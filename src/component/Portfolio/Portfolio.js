@@ -3,7 +3,7 @@ import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters/AnimatedLetters'
 import './Portfolio.scss'
 import portfolioData from '../../data/portfolio.json'
-import gmail from '../../assets/images/gmail.png'
+
 function Portfolio() {
   const [letterClass, setLetterClass] = useState('text-animate')
 

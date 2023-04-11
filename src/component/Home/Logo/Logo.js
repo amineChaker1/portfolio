@@ -1,8 +1,6 @@
-import React, { useEffect, useRef } from 'react'
+import React from 'react'
 import './Logo.scss'
-import LogoS from '../../../assets/images/logo-s.png'
 
-import profile from '../../../assets/images/profil.png'
 import profile2 from '../../../assets/images/profile2.jpg'
 function Logo() {
   return (

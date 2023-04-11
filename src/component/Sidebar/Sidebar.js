@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import './Sidebar.scss'
 import LogoS from '../../assets/images/logo-s.png'
-import LogoSubtitle from '../../assets/images/logo_sub.png'
+
 import { Link, NavLink } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
@@ -13,12 +13,7 @@ import {
   faSuitcase,
   faUser,
 } from '@fortawesome/free-solid-svg-icons'
-import {
-  faGithub,
-  faLinkedin,
-  faSkype,
-  faYoutube,
-} from '@fortawesome/free-brands-svg-icons'
+import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
 function Sidebar() {
   const [showNav, setShowNav] = useState(false)
