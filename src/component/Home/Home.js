@@ -74,7 +74,7 @@ function Home() {
         <Logo />
       </div>
 
-      <Loader type="ball-scale-ripple-multiple" />
+      <Loader type="square-spin" />
     </>
   )
 }

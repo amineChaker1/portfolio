@@ -60,7 +60,7 @@ function Portfolio() {
         <div>{renderPortfolio(portfolioData.portfolio)}</div>
       </div>
 
-      <Loader type="ball-scale-ripple-multiple" />
+      <Loader type="square-spin" />
     </>
   )
 }

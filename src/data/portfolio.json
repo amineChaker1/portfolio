@@ -9,19 +9,18 @@
     },
 
     {
+      "cover": "https://i.ibb.co/WHFyHw7/protech.png",
+      "title": "Protech Blog",
+      "description": "A Blog Platforme For A Scientific Association I Founded, Leave Us A Comment :)",
+      "url": "https://protech-blog.vercel.app/",
+      "url2": "https://www.linkedin.com/company/associationprotech/"
+    },
+    {
       "cover": "https://i.ibb.co/GPfjNpG/easy-touch2.png",
       "title": "Easy Touch",
       "description": "A Food Delivery Platforme For A Food Based Start Up",
       "url": "https://easytouchdz.web.app/",
       "url2": "https://www.facebook.com/easytouchprep"
-    },
-
-    {
-      "cover": "https://i.ibb.co/WHFyHw7/protech.png",
-      "title": "Protech Blog",
-      "description": "A Blog Platforme For A Scientific Association I Founded Leave Us A Comment :)",
-      "url": "https://protech-blog.vercel.app/",
-      "url2": "https://www.linkedin.com/company/associationprotech/"
     },
     {
       "cover": "https://i.ibb.co/8Pb1HbP/elhadi2.png",

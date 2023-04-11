@@ -70,7 +70,7 @@ function About() {
         </div>
       </div>
 
-      <Loader type="ball-scale-ripple-multiple" />
+      <Loader type="square-spin" />
     </>
   )
 }

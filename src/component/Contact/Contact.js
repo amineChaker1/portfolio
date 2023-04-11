@@ -108,13 +108,13 @@ function Contact() {
           Amine Chaker <br />
           Algeria
           <br />
-          Jijel , Centre Ville <br />
+          Ben Aknoun / Jijel <br />
           Email me and lets build stuff <br />
           <span>chkramine2003@gmail.com</span>
         </div>
         <div className="map-wrap">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12777.079356413113!2d5.745822810620919!3d36.81205332212119!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12f2607c65da0e55%3A0xe6f33b21d29e2b20!2sCtre%20Ville%2C%20Jijel%2018000!5e0!3m2!1sfr!2sdz!4v1679701890865!5m2!1sfr!2sdz"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12786.234523386536!2d3.0121805!3d36.757163999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x128fb1f102cc5b57%3A0x8808414889b28c94!2sBen%20Aknoun!5e0!3m2!1sfr!2sdz!4v1681195163287!5m2!1sfr!2sdz"
             style={{ border: 0 }}
             className="myMap"
             allowfullscreen=""
@@ -124,7 +124,7 @@ function Contact() {
         </div>
       </div>
 
-      <Loader type="ball-scale-ripple-multiple" />
+      <Loader type="square-spin" />
     </>
   )
 }
