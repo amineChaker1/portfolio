@@ -36,7 +36,7 @@ function Portfolio() {
                   className="btn"
                   onClick={() => window.open(port.url2)}
                 >
-                  media
+                  Socials
                 </button>
               </div>
             </div>
