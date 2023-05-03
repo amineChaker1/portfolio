@@ -54,31 +54,6 @@ const Skills = () => {
             effort into optimizing my code and providing the best user
             experience.
           </p>
-
-          <p>
-            Visit my
-            <a target="_blank" href="https://www.linkedin.com/in/chmourad/">
-              {' '}
-              LinkedIn{' '}
-            </a>
-            profile for more details. Also you can checkout my cv on this
-            <a
-              target="_blank"
-              href="https://bobangajicsm.github.io/portfolio/assets/slobodan-gajic-cv.pdf"
-            >
-              {' '}
-              Link{' '}
-            </a>
-            , or feel free to give a peek on some of our association
-            <a
-              target="_blank"
-              href="https://www.toptal.com/css/smacss-scalable-modular-architecture-css"
-            >
-              {' '}
-              blog posts
-            </a>
-            .
-          </p>
         </div>
 
         <div className="skills-charts">
