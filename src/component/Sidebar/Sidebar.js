@@ -82,7 +82,7 @@ function Sidebar() {
           className="linkedin"
           target="_blank"
           rel="noreferrer"
-          href="https://www.linkedin.com/in/chmourad/"
+          href="https://www.linkedin.com/in/chaker/"
         >
           <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
           LinkedIn
@@ -92,7 +92,7 @@ function Sidebar() {
           className="github"
           target="_blank"
           rel="noreferrer"
-          href="https://github.com/mouradchaker "
+          href="https://github.com/amineChaker1 "
         >
           <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
           Github
