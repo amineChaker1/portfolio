@@ -41,9 +41,9 @@ function Contact() {
             />
           </h1>
           <p>
-            I am interested in freelance opportunities - especially on ambitious
-            or large projects. However, if you have any other requests or
-            questions, don't hesitate to contact me using below form either.
+            I am interested in Internships, Entry level jobs and even freelance
+            opportunities. However, if you have any other requests or questions,
+            don't hesitate to contact me using below form either.
           </p>
 
           <div className="contact-form">
@@ -106,15 +106,14 @@ function Contact() {
 
         <div className="info-map">
           Amine Chaker <br />
-          Algeria
+          Paris / Créteil <br />
+          Phone: +33605920875
           <br />
-          Ben Aknoun / Jijel <br />
-          Email me and lets build stuff <br />
-          <span>chkramine2003@gmail.com</span>
+          Email: chkramine2003@gmail.com
         </div>
         <div className="map-wrap">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12786.234523386536!2d3.0121805!3d36.757163999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x128fb1f102cc5b57%3A0x8808414889b28c94!2sBen%20Aknoun!5e0!3m2!1sfr!2sdz!4v1681195163287!5m2!1sfr!2sdz"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2628.3296319640845!2d2.45540417686405!3d48.794687105186874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e60cc9f2a6c8f1%3A0x2754888174437b63!2s11%20Rue%20Jean%20Jaur%C3%A8s%2C%2094000%20Cr%C3%A9teil!5e0!3m2!1sen!2sfr!4v1739812314832!5m2!1sen!2sfr"
             style={{ border: 0 }}
             className="myMap"
             allowfullscreen=""

@@ -21,40 +21,40 @@ export const sphereItem = [
   },
 
   {
-    title: 'Mongoose',
-    href: 'https://www.prisma.io/',
+    title: 'Python',
+    href: 'https://en.wikipedia.org/wiki/Python_(programming_language)',
   },
   {
-    title: 'VSCode',
-    href: 'https://code.visualstudio.com/',
+    title: 'Power BI',
+    href: 'https://en.wikipedia.org/wiki/Microsoft_Power_BI',
   },
   {
-    href: 'https://fr.wikipedia.org/wiki/Python_(langage)',
-    title: 'Geist',
+    href: 'https://en.wikipedia.org/wiki/SQL',
+    title: 'SQL',
   },
   {
-    href: 'https://fr.wikipedia.org/wiki/C_(langage)',
-    title: 'Tailwind',
+    href: 'https://fr.wikipedia.org/wiki/Microsoft_SQL_Server',
+    title: 'Microsoft SQL Server',
   },
   {
-    href: 'https://www.w3schools.com/css/',
-    title: 'CSS',
+    href: 'https://en.wikipedia.org/wiki/SAS_(software)',
+    title: 'SAS',
   },
   {
-    href: 'https://www.typescriptlang.org/',
-    title: 'TypeScript',
+    href: 'https://en.wikipedia.org/wiki/Microsoft_Excel',
+    title: 'Excel',
   },
   {
-    href: 'https://nextjs.org/',
-    title: 'NextJS',
+    href: 'https://en.wikipedia.org/wiki/NumPy',
+    title: 'NumPy',
   },
   {
-    href: 'https://fr.wikipedia.org/wiki/Redis',
-    title: 'Redux',
+    href: 'https://en.wikipedia.org/wiki/Pandas_(software)',
+    title: 'pandas',
   },
   {
-    href: 'https://fr.wikipedia.org/wiki/SQL',
-    title: 'MongoAtlas',
+    href: 'https://en.wikipedia.org/wiki/Matplotlib',
+    title: 'Matplotlib',
   },
 
   {
@@ -67,8 +67,8 @@ export const sphereItem = [
   },
 
   {
-    title: 'Material UI',
-    href: 'https://www.docker.com/',
+    title: 'scikit-learn',
+    href: 'https://en.wikipedia.org/wiki/Scikit-learn',
   },
 ]
 

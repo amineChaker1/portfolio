@@ -1,45 +1,45 @@
 {
   "portfolio": [
     {
-      "cover": "https://i.ibb.co/MVk8PgK/laplume.png",
-      "title": "La Plume - Ecommerce",
-      "description": "An Ecommerce Platforme Which Sells Products For A Beauty Salon 'La Plume' Made With The MERN Stack ",
-      "url": "https://laplume.vercel.app/",
-      "url2": "https://www.facebook.com/Laplumerelooking"
+      "cover": "https://i.ibb.co/bjXj08pb/proj1.png",
+      "title": "Marketing Analytics",
+      "description": "Data Project : Conducted a data-driven analysis of an online retailer customer engagement, conversion rates and marketing data, utilizing SQL, Python and Power BI. ",
+      "url": "#",
+      "url2": "#"
     },
 
     {
+      "cover": "https://i.ibb.co/xZYvvvy/car-sales.png",
+      "title": "Car Sales Analysis",
+      "description": "Data Project : Conducted analysis on Car Prices and Year Resale Value for each car manufacturer in a dealership with Excel, and presented them as a report to a regional manager",
+      "url": "https://github.com/amineChaker1/excel-data-analytics",
+      "url2": "https://www.linkedin.com/company/associationprotech/"
+    },
+    {
+      "cover": "https://i.ibb.co/GPfjNpG/easy-touch2.png",
+      "title": "Easy Touch",
+      "description": "Data Project : A Food Delivery Platforme For A Food Based Start Up",
+      "url": "https://easytouchdz.web.app/",
+      "url2": "https://www.facebook.com/easytouchprep"
+    },
+    {
       "cover": "https://i.ibb.co/WHFyHw7/protech.png",
       "title": "Protech Blog",
-      "description": "A Blog Platforme For A Scientific Association I Founded, Leave Us A Comment :)",
+      "description": "Web Project : A  Community Blog Platforme For A Scientific Association I Founded",
       "url": "https://protech-blog.vercel.app/",
       "url2": "https://www.linkedin.com/company/associationprotech/"
     },
     {
       "cover": "https://i.ibb.co/GPfjNpG/easy-touch2.png",
       "title": "Easy Touch",
-      "description": "A Food Delivery Platforme For A Food Based Start Up",
+      "description": "Web Project : A Food Delivery Platforme For A Food Based Start Up",
       "url": "https://easytouchdz.web.app/",
       "url2": "https://www.facebook.com/easytouchprep"
     },
     {
-      "cover": "https://i.ibb.co/8Pb1HbP/elhadi2.png",
-      "title": "Elhadi - Real Estate",
-      "description": "A Real Estate website showcasing diffrent houses and suggesting places to visit",
-      "url": "https://elhadi-tour-app.vercel.app/",
-      "url2": "https://www.facebook.com/elhadijijel18"
-    },
-    {
-      "cover": "https://i.ibb.co/5F9Hkst/lihcene.png",
-      "title": "Ihcene - Association",
-      "description": "A Charity Association Aimed For Elderly People",
-      "url": "https://lihcene.web.app/",
-      "url2": "https://www.google.com/"
-    },
-    {
       "cover": "https://i.ibb.co/BGQfdQM/Screenshot-2023-04-11-081010.png",
       "title": "Khadma - Artisans",
-      "description": "An Artisans Marketplace for Artisans",
+      "description": "Web Project : A Landing Page for an Artisans Marketplace sold to a client",
       "url": "https://khadma-landing-page.vercel.app/",
       "url2": "https://www.facebook.com/electricien.jijel/"
     }

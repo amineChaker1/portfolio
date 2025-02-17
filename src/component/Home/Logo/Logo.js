@@ -1,7 +1,7 @@
 import React from 'react'
 import './Logo.scss'
 
-import profile2 from '../../../assets/images/profile2.jpg'
+import profile2 from '../../../assets/images/logo-s1.jpeg'
 function Logo() {
   return (
     <div className="logo-container">
