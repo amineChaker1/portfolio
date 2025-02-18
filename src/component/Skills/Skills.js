@@ -39,17 +39,17 @@ const Skills = () => {
             decision-making processes.
           </p>
           <p>
-            Expert in front-end web development including technologies like
+            Expert in front-end web development including technologies like{' '}
             <span class="tech-tag">HTML5</span>,
             <span class="tech-tag">CSS3</span>,
             <span class="tech-tag">JavaScript</span>,
             <span class="tech-tag">React</span>,<br />
             <span class="tech-tag">Tailwind</span>,
             <span class="tech-tag">Animation</span>,
-            <span class="tech-tag">Git</span>, etc.
+            <span class="tech-tag">Git</span> etc.
           </p>
           <p>
-            And some experience working with the Backend like
+            And some experience working with the Backend like{' '}
             <span class="tech-tag">NodeJs</span>,
             <span class="tech-tag">ExpressJs</span>,
             <span class="tech-tag">RestfulApi</span>,

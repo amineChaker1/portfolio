@@ -4,44 +4,38 @@
       "cover": "https://i.ibb.co/bjXj08pb/proj1.png",
       "title": "Marketing Analytics",
       "description": "Data Project : Conducted a data-driven analysis of an online retailer customer engagement, conversion rates and marketing data, utilizing SQL, Python and Power BI. ",
-      "url": "#",
-      "url2": "#"
+      "url": "https://github.com/amineChaker1/powerbi-data-analysis"
     },
-
+    {
+      "cover": "https://i.ibb.co/hhFcnPh/sqlpp.png",
+      "title": "Production Analysis",
+      "description": "Data Project :Conducted analysis on US Department of Agriculture production data using SQL to assess state-by-state production for each commodity and identify trends or anomalies.",
+      "url": "https://github.com/amineChaker1/sql-for-ds"
+    },
     {
       "cover": "https://i.ibb.co/xZYvvvy/car-sales.png",
       "title": "Car Sales Analysis",
       "description": "Data Project : Conducted analysis on Car Prices and Year Resale Value for each car manufacturer in a dealership with Excel, and presented them as a report to a regional manager",
-      "url": "https://github.com/amineChaker1/excel-data-analytics",
-      "url2": "https://www.linkedin.com/company/associationprotech/"
+      "url": "https://github.com/amineChaker1/excel-data-analytics"
+    },
+
+    {
+      "cover": "https://i.ibb.co/C5f13WCp/02.png",
+      "title": "Protech",
+      "description": "Web Project : A Community Platform For A Scientific Association I Founded with basic informations and a blog",
+      "url": "https://protechassociation.web.app/"
     },
     {
       "cover": "https://i.ibb.co/GPfjNpG/easy-touch2.png",
       "title": "Easy Touch",
-      "description": "Data Project : A Food Delivery Platforme For A Food Based Start Up",
-      "url": "https://easytouchdz.web.app/",
-      "url2": "https://www.facebook.com/easytouchprep"
+      "description": "Web Project : A Food Delivery Platform For A Food Based Start Up",
+      "url": "https://easytouchdz.web.app/"
     },
     {
-      "cover": "https://i.ibb.co/WHFyHw7/protech.png",
-      "title": "Protech Blog",
-      "description": "Web Project : A  Community Blog Platforme For A Scientific Association I Founded",
-      "url": "https://protech-blog.vercel.app/",
-      "url2": "https://www.linkedin.com/company/associationprotech/"
-    },
-    {
-      "cover": "https://i.ibb.co/GPfjNpG/easy-touch2.png",
-      "title": "Easy Touch",
-      "description": "Web Project : A Food Delivery Platforme For A Food Based Start Up",
-      "url": "https://easytouchdz.web.app/",
-      "url2": "https://www.facebook.com/easytouchprep"
-    },
-    {
-      "cover": "https://i.ibb.co/BGQfdQM/Screenshot-2023-04-11-081010.png",
-      "title": "Khadma - Artisans",
-      "description": "Web Project : A Landing Page for an Artisans Marketplace sold to a client",
-      "url": "https://khadma-landing-page.vercel.app/",
-      "url2": "https://www.facebook.com/electricien.jijel/"
+      "cover": "https://i.ibb.co/9HrKcntH/03.png",
+      "title": "Biodiet",
+      "description": "Web Project : A Web Page for a Dietician providing nutrituion consulting and course help, sold to a client",
+      "url": "https://dieticien.vercel.app/"
     }
   ]
 }
