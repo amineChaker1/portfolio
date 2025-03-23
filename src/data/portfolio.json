@@ -7,6 +7,12 @@
       "url": "https://github.com/amineChaker1/powerbi-data-analysis"
     },
     {
+      "cover": "https://i.ibb.co/VpqYc3Ty/Screenshot-2025-03-14-132159.png",
+      "title": "Airbnb Pricing",
+      "description": "Data Project : Analyzed a dataset of 90K listings from Airbnb Paris to understand the factors influencing accommodation pricing. Also gained insights into the commercial use of Airbnb and host competitiveness.",
+      "url": "https://airbnbtarif.tiiny.site/"
+    },
+    {
       "cover": "https://i.ibb.co/hhFcnPh/sqlpp.png",
       "title": "Production Analysis",
       "description": "Data Project :Conducted analysis on US Department of Agriculture production data using SQL to assess state-by-state production for each commodity and identify trends or anomalies.",
@@ -30,12 +36,6 @@
       "title": "Easy Touch",
       "description": "Web Project : A Food Delivery Platform For A Food Based Start Up",
       "url": "https://easytouchdz.web.app/"
-    },
-    {
-      "cover": "https://i.ibb.co/9HrKcntH/03.png",
-      "title": "Biodiet",
-      "description": "Web Project : A Web Page for a Dietician providing nutrituion consulting and course help, sold to a client",
-      "url": "https://dieticien.vercel.app/"
     }
   ]
 }
